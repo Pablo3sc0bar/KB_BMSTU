@@ -1,0 +1,6 @@
+﻿  WindowsProject2.cpp
+C:\Users\Admin\Desktop\PeerToPeer\WindowsProject2\WindowsProject2.cpp(113,95): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Admin\Desktop\PeerToPeer\WindowsProject2\WindowsProject2.cpp(114,79): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Admin\Desktop\PeerToPeer\WindowsProject2\WindowsProject2.cpp(115,79): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Admin\Desktop\PeerToPeer\WindowsProject2\WindowsProject2.cpp(205,62): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  WindowsProject2.vcxproj -> C:\Users\Admin\Desktop\PeerToPeer\x64\Debug\WindowsProject2.exe
